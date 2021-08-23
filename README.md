@@ -3,7 +3,7 @@
 <!--
 **LonelyTangzz/LonelyTangzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![pc](https://user-images.githubusercontent.com/48684478/130450738-cec8637f-bfcb-460e-9d2b-72561b56400d.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
