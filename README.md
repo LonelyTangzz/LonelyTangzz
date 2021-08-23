@@ -1,9 +1,8 @@
 ### Hi there 👋
-
+![pc](https://github.com/LonelyTangzz/LonelyTangzz/blob/main/pc.gif)
 <!--
 **LonelyTangzz/LonelyTangzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![pc](https://github.com/LonelyTangzz/LonelyTangzz/blob/main/pc.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
